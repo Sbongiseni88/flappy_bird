@@ -8,3 +8,11 @@ A simple clone of the classic Flappy Bird game built using Java. This project wa
 - Smooth animations and responsive controls
 - Simple scoring system
 - Game Over screen and restart option
+
+## 🛠️ Tools and Frameworks
+
+This project was built using the following tools and frameworks:
+
+- **Java:** The core programming language used for the game logic.
+- **Java Swing:** Used for creating the graphical user interface (GUI) and handling user input.
+- **AWT (Abstract Window Toolkit):** Used for drawing graphics and images.
